@@ -21,10 +21,10 @@
     "@angular/router": "^15.0.2",
     "rxjs": "^7.5.7",
     "tslib": "^2.4.1",
-    "zone.js": "^0.12.0",
-    "@syncfusion/ej2-angular-navigations": "^20.3.52",
-    "@syncfusion/ej2-angular-schedule": "^20.4.43",
-    "@syncfusion/ej2-angular-dropdowns": "^20.3.56"
+    "zone.js": "^0.12.0"
+    // "@syncfusion/ej2-angular-navigations": "^20.3.52",
+    // "@syncfusion/ej2-angular-schedule": "^20.4.43",
+    // "@syncfusion/ej2-angular-dropdowns": "^20.3.56"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.0.0",
